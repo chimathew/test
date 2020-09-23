@@ -1,0 +1,8 @@
+/pay-with-visa /support
+/partner-with-us.html /test
+/run-your-business /test
+/support /test
+/visa-everywhere /test
+/about-visa /testingg
+/careers /careers-at
+/contact-us /test
